@@ -14,35 +14,30 @@
 </p>
 <img src="./assets/lineBar.png" width="100%" height="8px"/>
 
-<div align="center">
-    <a align="center" href="https://github.com/bonatoneto">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonatoneto&hide=jupyter%20notebook&layout=compact&langs_count=7&theme=dark" />
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=bonatoneto&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-    </a>
-  </div>
-<details>
-    <summary>📈 Recent GitHub Activity</summary>
-    <div align="center">      
-   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bonatoneto&theme=dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  
-    </div>
-</details>
-
 <h1>
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;  Status
+</h1>
+<div align="center">
+    <a href="https://github.com/bonatoneto">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonatoneto&hide=jupyter%20notebook&layout=compact&langs_count=7&theme=dark" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bonatoneto&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+    </a>
+</div>
+
+  <div>
+    <h1>
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;  Minhas Contribuições 
 </h1>
+    <div align="center">
+        
+   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bonatoneto&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+</div>
 
 <p align="center">
  <a href="https://git.io/streak-stats">
  <img src="https://github-readme-streak-stats.herokuapp.com?user=bonatoneto&theme=dark&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&card_width=600" alt="GitHub Streak" />
  </a>
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer" width="100%"/>
 
-<p align="center">
-  <a href="https://github.com/bonatoneto#gh-light-mode-only"><img src="https://raw.githubusercontent.com/bonatoneto/bonatoneto/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a>
-</p>
-<p align="center">
-  <a href="https://github.com/bonatoneto#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/bonatoneto/bonatoneto/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a>
-</p>
 <img src="./assets/lineBar.png" width="100%" height="8px"/>
