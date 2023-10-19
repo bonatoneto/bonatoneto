@@ -41,7 +41,7 @@
 
 <div align="center">
         
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bonatoneto&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bonatoneto&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer" width="100%"/>
