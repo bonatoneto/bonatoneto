@@ -23,8 +23,7 @@
 </h1>
 <div align="center">
     <a href="https://github.com/bonatoneto">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonatoneto&hide=jupyter%20notebook&layout=compact&langs_count=7&theme=radical" />
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bonatoneto&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+      	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonatoneto&hide=jupyter%20notebook&layout=compact&langs_count=7&theme=radical" />
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bonatoneto&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
     </a>
 </div>
@@ -36,7 +35,7 @@
 
 <p align="center">
  <a href="https://git.io/streak-stats">
- <img src="https://github-readme-streak-stats.herokuapp.com?user=bonatoneto&theme=dark&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&card_width=600" alt="GitHub Streak" />
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=bonatoneto&theme=radical&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&card_width=600" alt="GitHub Streak" />
  </a>
 </p>
 
