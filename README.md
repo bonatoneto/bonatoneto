@@ -1,6 +1,6 @@
-//<p align="center">
-  //<img src="./assets/banner.png" alt="banner profile" />
-//</p>
+<!-- <p align="center">
+  <img src="./assets/banner.png" alt="banner profile" />
+</p> -->
 <p align="center">
 	<a href="mailto:joaoadolfobonato@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
