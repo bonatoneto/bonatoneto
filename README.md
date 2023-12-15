@@ -18,15 +18,6 @@
 </p>
 <img src="./assets/lineBar.png" width="100%" height="8px"/>
 
-<h1>
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;  Status
-</h1>
-<div align="center">
-    <a href="https://github.com/bonatoneto">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bonatoneto&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-    </a>
-</div>
-
   <div>
     <h1>
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;My Contributions 
