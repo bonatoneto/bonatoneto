@@ -28,9 +28,8 @@
  <img src="https://github-readme-streak-stats.herokuapp.com?user=bonatoneto&theme=radical&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&card_width=600" alt="GitHub Streak" />
  </a>
 </p>
-<div style="display: inline_block"><br>
+
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,styledcomponents,html,css,)](https://skillicons.dev)
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer" width="100%"/>
 
