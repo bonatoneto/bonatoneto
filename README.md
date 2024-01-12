@@ -29,7 +29,11 @@
  </a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,styledcomponents,html,css,)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,styledcomponents,html,css" />
+  </a>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer" width="100%"/>
 
