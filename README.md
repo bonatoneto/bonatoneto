@@ -18,24 +18,14 @@
 </p>
 <img src="./assets/lineBar.png" width="100%" height="8px"/>
 
-<h1>
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;  Status
-</h1>
-<div align="center">
-    <a href="https://github.com/bonatoneto">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonatoneto&hide=jupyter%20notebook&layout=compact&langs_count=7&theme=dark" />
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bonatoneto&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-    </a>
-</div>
-
   <div>
     <h1>
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;  Minhas Contribuições 
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;My Contributions 
 </h1>
 
 <p align="center">
  <a href="https://git.io/streak-stats">
- <img src="https://github-readme-streak-stats.herokuapp.com?user=bonatoneto&theme=dark&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&card_width=600" alt="GitHub Streak" />
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=bonatoneto&theme=radical&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&card_width=600" alt="GitHub Streak" />
  </a>
 </p>
 <div style="display: inline_block"><br>
@@ -46,11 +36,6 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-</div>
-
-<div align="center">
-        
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bonatoneto&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer" width="100%"/>
