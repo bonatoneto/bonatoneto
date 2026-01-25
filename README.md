@@ -23,11 +23,13 @@
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;My Contributions 
 </h1>
 
-<p align="center">
+[![GitHub Streak](https://streak-stats.demolab.com?user=bonatoneto&theme=dracula&hide_border=true&border_radius=8&mode=weekly)](https://git.io/streak-stats)
+
+<!-- <p align="center">
  <a href="https://git.io/streak-stats">
  <img src="https://github-readme-streak-stats.herokuapp.com?user=bonatoneto&theme=radical&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&card_width=600" alt="GitHub Streak" />
  </a>
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://skillicons.dev">
